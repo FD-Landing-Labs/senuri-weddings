@@ -12,8 +12,8 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: "Shanoory - Luxury Wedding Floral Design",
-  description: "Transform your wedding with breathtaking floral arrangements. Luxury wedding florals, bouquets, ceremony decor, and reception styling by Shanoory.",
+  title: "Senuri - Luxury Wedding Floral Design",
+  description: "Transform your wedding with breathtaking floral arrangements. Luxury wedding florals, bouquets, ceremony decor, and reception styling by Senuri.",
 };
 
 export default function RootLayout({
